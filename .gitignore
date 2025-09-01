@@ -1,1 +1,3 @@
 prod_assist_venv/
+.env
+.vscode/
